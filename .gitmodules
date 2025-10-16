@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Barfoud-Fatima-Zohra/cnn-cifar10-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Barfoud-Fatima-Zohra/cnn-cifar10-frontend.git
