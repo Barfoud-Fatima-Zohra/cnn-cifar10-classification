@@ -1,6 +1,7 @@
 # CNN CIFAR-10 Image Classification System
 
 ### Web Interface
+
 ![Main Interface](/assets/website-screen.png)
 *Main classification interface with drag-and-drop upload*
 
